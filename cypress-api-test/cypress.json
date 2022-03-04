@@ -1,0 +1,4 @@
+{
+    "baseURL": "https://gorest.co.in",
+    "integrationFolder": "cypress/integration/api-tests"
+ }
