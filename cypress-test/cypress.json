@@ -1,4 +1,5 @@
 {
     "baseURL": "https://gorest.co.in",
-    "integrationFolder": "cypress/integration/tests"
+    "integrationFolder": "cypress/integration/tests",
+    "chromeWebSecurity": false
  }
