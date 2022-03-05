@@ -1,4 +1,4 @@
-# apitesting
+# cypress testing
 
 npm install
 npm i cypress
