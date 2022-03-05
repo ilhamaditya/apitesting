@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test":"cypress open",
-    "cypress:open": "./node_modules/.bin/cypress open"
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "cypress run",
+    "cypress:chrome": "cypress run --env TransferProtocol='http' --browser chrome",
+    "cypress:firefox": "cypress run --env TransferProtocol='http' --browser firefox"
   },
   "author": "",
   "license": "ISC",
